@@ -3,4 +3,4 @@
     Paper Link: https://www.osapublishing.org/optica/abstract.cfm?uri=optica-4-11-1437
     Supplementary Material Link: https://figshare.com/articles/_/5552338
 
-<div align=center><img width="150" height="150" src="http://github.com/bilibilistar/Deep-Learning-Microscopy/tree/master/readmeImages/network.png"/></div>
+<div align=center><img width="600" height="400" src="http://github.com/bilibilistar/Deep-Learning-Microscopy/tree/master/readmeImages/network.png"/></div>
