@@ -1,4 +1,4 @@
-from net import inference
+from net import resnet
 import os
 import numpy as np
 from scipy import misc
