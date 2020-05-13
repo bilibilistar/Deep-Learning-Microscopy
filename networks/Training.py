@@ -1,4 +1,4 @@
-from net import inference
+from net import resnet
 from datagen import SequenceData
 import numpy as np
 import math
